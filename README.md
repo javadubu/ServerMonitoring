@@ -10,8 +10,8 @@ Executing the script: Run your Python script.
 Method 2: Using package management tools
 
 For Debian/Ubuntu-based systems:
-‌
-Bash
+‌Bash
+
 
 sudo apt update
 sudo apt install git
