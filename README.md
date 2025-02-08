@@ -10,4 +10,17 @@ Executing the script: Run your Python script.
 Method 2: Using package management tools
 
 For Debian/Ubuntu-based systems:
+‌
+Bash
+
+sudo apt update
+sudo apt install git
+
+git clone https://github.com/javadubu/ServerMonitoring.git
+
+cd ServerMonitoring
+
+pip install -r requirements.txt
+
+python monitor.py
 
